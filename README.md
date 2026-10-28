@@ -60,8 +60,6 @@ python evaluation.py \
     --trimap-dir dataset/Transparent-460/trimap_copy
 ```
 
-For paper-level results, use the official benchmark evaluation protocol.
-
 ## Quantitative Results
 
 All results below were obtained with training on Composition-1K. Lower is better for all metrics.
