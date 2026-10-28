@@ -19,7 +19,7 @@ The code also requires a compatible installation of [Detectron2](https://github.
 
 The model was trained on the **Composition-1K** training set and evaluated on **Transparent-460** and **UHR-395**, without additional fine-tuning on either evaluation benchmark.
 
-- **Model weights:** [Google Drive](https://drive.google.com/file/d/1AFZSkaKjkVDM7Sn9B-fZiju3YqWKgJkO/view?usp=sharing)
+- **Model weights:** [Google Drive](https://drive.google.com/file/d/1T6g-VVGkrzu-e5xKmtZDjTrXo7ZM_V1-/view?usp=drive_link)
 - **Transparent-460:** [TransMatting](https://github.com/AceCHQ/TransMatting)
 - **UHR-395:** [MEMatte](https://github.com/linyiheng123/MEMatte)
 
