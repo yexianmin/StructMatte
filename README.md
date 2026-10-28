@@ -32,7 +32,7 @@ Run inference on Transparent-460:
 ```bash
 python inference.py \
     --config-dir configs/StructMatte_S_topk0.25_win_global_long.py \
-    --checkpoint-dir checkpoint/model_final.pth \
+    --checkpoint-dir checkpoint/StructMatte.pth \
     --data-dir dataset/Transparent-460 \
     --inference-dir predAlpha/Transparent-460
 ```
@@ -42,7 +42,7 @@ Run inference on UHR-395:
 ```bash
 python inference.py \
     --config-dir configs/StructMatte_S_topk0.25_win_global_long.py \
-    --checkpoint-dir checkpoint/model_final.pth \
+    --checkpoint-dir checkpoint/StructMatte.pth \
     --data-dir dataset/UHR-395/test \
     --inference-dir predAlpha/UHR-395
 ```
