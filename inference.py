@@ -108,7 +108,7 @@ if __name__ == '__main__':
     #add argument we need:
     parser = default_argument_parser()
     parser.add_argument('--config-dir', type=str, default='./configs/StructMatte_S_topk0.25_win_global_long.py')
-    parser.add_argument('--checkpoint-dir', type=str, default='./checkpoint/model_final.pth')
+    parser.add_argument('--checkpoint-dir', type=str, default='./checkpoint/StructMatte.pth')
     
     # parser.add_argument('--inference-dir', type=str, default='./predAlpha_/UHR-395')
     # parser.add_argument('--data-dir', type=str, default='./dataset/UHR-395/test')
