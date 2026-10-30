@@ -3,7 +3,7 @@
 **Structure-Enhanced Matting (StructMatte)**  
 *Enhancing Transparent-Object Structure via Consistency-Guided Fusion for High-Resolution Image Matting*
 
-StructMatte improves high-resolution image matting by learning structural representations from progressively downsampled input views. It incorporates a Progressive Structure Encoder (PSE), a Cross-View Structure Consistency (CSC) Loss, and Consistency-Guided Structure Fusion (CGSF). MEMatte-S is used as the matting backbone.
+StructMatte improves high-resolution transparent-object image matting by learning structural representations from progressively downsampled input views. It incorporates a Progressive Structure Encoder (PSE), a Cross-View Structure Consistency (CSC) Loss, and Consistency-Guided Structure Fusion (CGSF). MEMatte-S is used as the matting backbone.
 
 ## Requirements
 
